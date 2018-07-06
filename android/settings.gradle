@@ -1,0 +1,3 @@
+rootProject.name = 'MyMenuList'
+
+include ':app'
